@@ -1,0 +1,4 @@
+﻿  Laba_1.cpp
+C:\Users\Admin\source\repos\LabaStankin\Laba_1\Laba_1\Circle.h(6,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\LabaStankin\Laba_1\Laba_1\Laba_1.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laba_1.vcxproj -> C:\Users\Admin\source\repos\LabaStankin\Laba_1\Debug\Laba_1.exe
